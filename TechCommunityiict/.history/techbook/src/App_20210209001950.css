@@ -1,0 +1,24 @@
+.app {
+    background-color: #f1f2f5;
+}
+
+.app__body {
+    display: flex;
+}
+
+#feedid{
+    overflow: auto;
+    margin-left: 30%;
+}
+
+.profileclass{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+  height: 100px;
+  padding: 150px;
+  border: 1px solid grey;
+  box-sizing: border-box;
+  background-color: rgb(211, 207, 201);
+    
+}

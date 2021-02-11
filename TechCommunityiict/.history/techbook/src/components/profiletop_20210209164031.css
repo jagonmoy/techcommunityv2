@@ -1,0 +1,23 @@
+
+#profilename{
+    font-size: 40px;
+}
+
+.profile_pic{
+    height: 100px;
+    width: auto;
+}
+
+#name{
+    font-size: 20px;
+    padding: 20px 0px 0px 0px;
+}
+
+#username{
+    color:#2e81f4
+}
+
+#useremail{
+    padding-left: 10px;
+}
+

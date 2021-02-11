@@ -1,0 +1,21 @@
+.contactRow {
+    display: flex;
+    align-items: center;
+    padding-top: 10px;
+    cursor: pointer;
+    
+}
+
+.contactRow:hover {    
+    border-radius: 10px;
+}
+
+.contactRow>a {
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+.contactRow>.MuiSvgIcon-root {
+    font-size: xx-large;
+    color: black;
+}

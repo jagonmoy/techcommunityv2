@@ -1,0 +1,6 @@
+.profilesection{
+    padding-left: 50px;
+    overflow: auto;
+    float: left;
+    position: relative;
+}

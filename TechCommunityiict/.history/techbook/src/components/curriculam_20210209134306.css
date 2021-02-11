@@ -1,0 +1,10 @@
+.table_full{
+    background-color: azure;
+
+}
+
+.container{
+    justify-content: center;
+    padding: 100px;
+    align-content: center;
+}

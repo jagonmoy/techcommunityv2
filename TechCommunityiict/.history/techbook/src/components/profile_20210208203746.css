@@ -1,0 +1,5 @@
+.userprofile{
+    display: flex;
+    float: right;
+    justify-content: center;
+}

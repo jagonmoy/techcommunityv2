@@ -1,0 +1,16 @@
+.app {
+    background-color: #f1f2f5;
+}
+
+.app__body {
+    display: flex;
+}
+.profileclass{
+    overflow: auto;
+    margin-left: 30%;
+}  
+.profilesection{
+
+    padding-top: 50px;
+
+}

@@ -1,0 +1,18 @@
+.app {
+    background-color: #f1f2f5;
+}
+
+.app__body {
+    display: flex;
+}
+
+.feed{
+    /* padding-left: 50px; */
+    overflow: auto;
+    float: left; 
+    /* margin-left: 30%; */
+}
+#feedid{
+    overflow: auto;
+    margin-left: 30%;
+}

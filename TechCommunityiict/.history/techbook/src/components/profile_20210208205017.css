@@ -1,0 +1,10 @@
+.profilesection{
+    margin-top: 15px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 0px 5px 7px -7px black;
+    display: grid;
+    max-width: 70%;
+    overflow: auto;
+
+}
